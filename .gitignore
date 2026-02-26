@@ -1,0 +1,13 @@
+# IDE
+.idea
+.vscode
+
+# vendor
+vendor
+node_modules
+
+# generated
+.phpunit.result.cache
+
+# environment
+.wp-env.override.json
